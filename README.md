@@ -11,6 +11,8 @@ Read on for technical details.
 
 This documentation is based on the work of [oscar6echo](https://gitlab.com/oscar6echo/jupyter-widget-d3-slider/blob/master/README.md) who has contributed heavily to this project.
 
+For more context, read the article [Authoring Custom Jupyter Widgets - A Hands-On Guide](https://blog.jupyter.org/authoring-custom-jupyter-widgets-2884a462e724) on the [Jupyter Blog](https://blog.jupyter.org/).
+
 ## 1 - Installation
 
 To install use pip and npm:
